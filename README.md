@@ -1,7 +1,5 @@
-# ros2-gazebo-ball-beam-lqr
-Ball-beam control simulation in ROS 2 Jazzy and Gazebo Harmonic using an LQR controller for real-time stabilization.
-
 # Ball-Beam LQR Controller — ROS 2 Jazzy + Gazebo Harmonic
+This project implements a simulated **ball-beam balancing system** in **ROS 2 Jazzy** and **Gazebo Harmonic**. The beam is position-controlled, while a Python ROS 2 node computes an **LQR control command** to keep the ball near the center of the beam.
 
 ## 1. Requirements
 
